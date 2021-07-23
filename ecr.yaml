@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: "ECR with Policy For Child Accounts"
+Description: "ECR with Policy For Area51 Account testing"
 Parameters:
   environment:
     Type: String
